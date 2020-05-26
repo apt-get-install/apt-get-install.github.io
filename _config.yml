@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "복붙"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "APT_GET"
+name                     : "apt-get-install"
 description              : "An amazing website."
 url                      : #"https://apt-get-install.github.io"
 baseurl                  : #""
