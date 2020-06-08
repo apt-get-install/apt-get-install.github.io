@@ -7,10 +7,14 @@ toc: true
 toc_sticky: true 
 # categories: post
 ---
-## 개요
-본인이 공부한 내용 정리를 목적으로, 비 전공자에게 파이썬을 소개하려고 한다.
+## 01. 개발 환경 설정
+1. 파이썬 설치
+* 사이트 접속 Link: [https://www.python.org/][python-site-link]
 
-## 개발 환경 설정
+[python-site-link]: https://www.python.org/ "Go Python official site"
+![파이선 다운로드](/assets/resources/img/python-download.jpg)
+
+2. 설치 확인
 
 
 <script src="https://utteranc.es/client.js"
