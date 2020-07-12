@@ -5,6 +5,7 @@ date: 2020-05-24 20:36:30 +0900
 author: 최수호
 toc: true  
 toc_sticky: true 
+published : false
 # categories: post
 ---
 <script src="https://utteranc.es/client.js"
