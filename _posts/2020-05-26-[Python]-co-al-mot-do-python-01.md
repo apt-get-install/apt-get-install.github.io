@@ -42,7 +42,7 @@ tags:
 
 
 ![파이썬 실행(설치) 확인](/assets/images/posts/check-python.jpg)
-위 의 사진처럼, 파이썬의 버전등 간략한 정보가 표시되면 정상적으로 설치된 것이다.
+위 의 사진처럼, 파이썬의 버전 등 간략한 정보가 표시되면 정상적으로 설치된 것이다.
 
 <script src="https://utteranc.es/client.js"
     repo="apt-get-install/apt-get-install.github.io"
