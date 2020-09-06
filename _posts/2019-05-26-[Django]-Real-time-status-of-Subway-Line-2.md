@@ -1,12 +1,17 @@
 ---
 title: "[Django] 2호선 실시간 현황"
 layout: single
-date: 2020-05-26 22:00:00 +0900
+date: 2019-05-26 22:00:00 +0900
 author: 최수호
 toc: true  
 toc_sticky: true 
 published : false
-# categories: post
+categories: 
+  - ddd
+tags:
+  - python
+  - Setup
+  - Setting
 ---
 ## 개요
 파이썬 웹 프레임워크 Django를 사용하여 2호선 실시간 위치 정보 데이터 웹페이지를 만들려고한다.

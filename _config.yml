@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "최수호"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/my-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "문돌이"
   location         : "Anyang"
   links:

@@ -6,17 +6,22 @@ author: 최수호
 toc: true  
 toc_sticky: true 
 published : true
-# categories: post
+categories: 
+  - python
+tags:
+  - python
+  - Setup
+  - Setting
 ---
 # 1. 개발 환경 설정
 ## 01) 파이썬 설치
 * 사이트 접속 Link: [https://www.python.org/][python-site-link]{: target="_blank"}
 
 [python-site-link]: https://www.python.org/ "Go Python official site"
-![파이선 다운로드](/assets/resources/img/python-download.jpg)
+![파이선 다운로드](/assets/images/posts/python-download.jpg)
 
 사이트에 접속하여 최신 버전을 다운받으시면 됩니다.
->2버전 대(2.x.x)와 3버전 대(3.x.x)가 있습니다. 둘은 문법등 차이가 있으므로, 3버전대 최신버전으로 설치하시기 바랍니다.
+>2버전 대(2.x.x)와 3버전 대(3.x.x)가 있습니다. 둘은 문법 등 차이가 있으므로, 3버전 대 최신버전으로 설치하시기 바랍니다.
 
 
 ㅁㄴㅇㅁㄴㅇ
