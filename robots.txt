@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://apt-get-install.github.io/sitemap.xml
