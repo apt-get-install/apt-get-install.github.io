@@ -28,7 +28,7 @@ tags:
 본 포스팅은 이 중 PyCharm을 기준으로 진행하려고 한다.
 
 
-# 2. Pycharm 설치
+# 2. PyCharm 설치
 ## 01) 다운로드
 * 사이트 접속 Link: [https://www.jetbrains.com/ko-kr/][jetbrains-site-link]{: target="_blank"}
 
@@ -40,7 +40,7 @@ PyCharm 항목을 클릭한다.
 사이트의 중단이나 우측 상단의 다운로드 버튼 중 아무거나 클릭한다.
 
 ![파이참 다운로드](/assets/images/posts/pycharm-download-03.jpg)
-Communuty 버전을 다운로드 한다.
+Community 버전을 다운로드 한다.
 
 
 ## 02) 설치
