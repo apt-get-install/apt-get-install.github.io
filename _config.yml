@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "복붙"
+title                    : "복뿟"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "apt-get-install"
-description              : "An amazing website."
+description              : "복붙으로, 쉽게 활용할 수 있는 포스팅을 지향합니다."
 url                      : #"https://apt-get-install.github.io"
 baseurl                  : #""
 repository               : "apt-get-install/apt-get-install.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "최수호"
   avatar           : "/assets/images/my-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "문돌이"
+  bio              : "MES 웹개발자입니다. 최근에는, 파이썬과 빅데이터에 관심이 생겨 공부중입니다."
   location         : "Anyang"
   links:
     - label: "Email"

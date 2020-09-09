@@ -9,9 +9,12 @@ published : true
 categories: 
   - python
 tags:
-  - python
+  - pycharm
   - Setup
   - Setting
+  - 파이참
+  - 설치
+  - 설정
 ---
 # 1. 통합 개발 환경(IDE)
 ## 01) 통합 개발 환경 이란?

@@ -9,9 +9,10 @@ published : true
 categories: 
   - python
 tags:
-  - python
   - Setup
   - Setting
+  - 설치
+  - 설정
 ---
 # 1. 파이썬 설치
 ## 01) 다운로드
