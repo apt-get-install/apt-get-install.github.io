@@ -28,7 +28,7 @@ var addJsonData = [
 ```
 
 
-## 02) addJSONData() 사용
+## 02) addJSONData() 사용 (복뿟)
 ```javascript
 $("#jqGridId)[0].addJSONData(addJsonData);
 ```
