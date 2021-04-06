@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "최수호"
   avatar           : "/assets/images/my-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MES 웹개발자입니다. 최근에는, 파이썬과 빅데이터에 관심이 생겨 공부중입니다."
+  bio              : "웹 개발자입니다. 빅데이터 분석 기사를 도전하고 있습니다."
   location         : "Anyang"
   links:
     - label: "Email"
