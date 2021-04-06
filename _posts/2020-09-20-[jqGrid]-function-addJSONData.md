@@ -18,7 +18,7 @@ tags:
 ## 01) jqGrid 버전
 * 사이트 접속 Link: [https://github.com/tonytomov/jqGrid/releases/tag/v4.7.1][jqGrid-4.7.1-link]{: target="_blank"}
 
-[jqGrid-4.7.1-link]: https://www.jetbrains.com/ko-kr/ "Go jqGrid v4.7.1 down"
+[jqGrid-4.7.1-link]: https://github.com/tonytomov/jqGrid/releases/tag/v4.7.1 "Go jqGrid v4.7.1 down"
 
 4.7.1버전 이하(무료)버전을 사용하였다.
 
