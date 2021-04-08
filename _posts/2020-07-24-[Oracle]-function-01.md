@@ -36,7 +36,7 @@ DENSE_RANK() : 중복 순위는 밀집하여(DENSE) 카운트
 ```sql
 CREATE TABLE STUDENT_SCORE (
         NAME VARCHAR2(20) NOT NULL,
-       SCORE NUMBER(3)    NOT NULL
+       SCORE NUMBER(3)    NULL
 );
 ```
 
