@@ -33,7 +33,6 @@ INSERT ALL
 	...
     INTO [테이블] ( [COLUMN1], [COLUMN2], ...) VALUES ( [VALUE1], [VALUE2], ...)
 SELECT * FROM DUAL;
-);
 ```
 가장 하단의 SELECT * FROM DUAL이 없으면 오류가 발생한다.
 >이유를 아시는분 설명 해주시면 정말 감사히 배우겠습니다.
@@ -47,8 +46,7 @@ INSERT INTO [테이블] ([COLUMN1], [COLUMN2], ...)
 	SELECT ([VALUE1], [VALUE2], ...) FROM DUAL UNION ALL 
 	SELECT ([VALUE1], [VALUE2], ...) FROM DUAL UNION ALL
 	...
-	SELECT ([VALUE1], [VALUE2], ...) FROM DUAL
-);
+	SELECT ([VALUE1], [VALUE2], ...) FROM DUAL;
 ```
 
 # 2. 속도 비교 결과
@@ -96,8 +94,7 @@ INSERT INTO TEST ( A_COM, B_COL, C_COL )
 	SELECT ('val01','val02','val03') FROM DUAL UNION ALL
 	SELECT ('val01','val02','val03') FROM DUAL UNION ALL
 	...
-	SELECT ('val01','val02','val03') FROM DUAL UNION ALL
-);
+	SELECT ('val01','val02','val03') FROM DUAL;
 ```
 
 <script src="https://utteranc.es/client.js"

@@ -5,7 +5,7 @@ date: 2020-10-09 10:36:30 +0900
 author: 최수호
 toc: true  
 toc_sticky: true 
-published : true
+published : false
 categories: 
   - Column
 tags:
